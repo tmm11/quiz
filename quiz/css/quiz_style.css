@@ -1,0 +1,78 @@
+/* Quiz styles */
+/* line 12, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+header {
+  border-radius: 20px;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: aliceblue;
+  text-align: center; }
+
+/* line 21, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+body {
+  width: 600px;
+  margin: auto;
+  font-family: monospace, sans-serif;
+  font-size: 1em;
+  font-style: oblique;
+  background-color: lightblue; }
+
+/* line 34, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+h1 {
+  color: #58a0e0; }
+
+/* line 38, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+#content {
+  border: 2px solid #064277;
+  border-radius: 20px;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: aliceblue; }
+
+/* line 46, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+#list {
+  border: 2px solid #064277;
+  border-radius: 20px;
+  background-color: aliceblue; }
+
+/* line 52, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+h2 {
+  color: #064277; }
+
+/* line 56, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+h3 {
+  margin-left: 50px;
+  color: #58a0e0; }
+
+/* line 61, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+ul {
+  margin-left: 50px; }
+
+/* line 65, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+p {
+  font-family: serif;
+  font-style: normal; }
+
+/* line 72, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+.samplepara {
+  border: 3px solid #58a0e0;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: white; }
+
+/* line 79, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+footer {
+  border: 2px solid #064277;
+  border-radius: 20px;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: aliceblue; }
+
+/* line 87, /Users/tmm11/Desktop/bwm399/quiz/css/quiz_style.scss */
+#footer {
+  font-size: .75em;
+  font-style: italic;
+  font-weight: bold;
+  color: #064277;
+  text-align: center; }
+
+/*# sourceMappingURL=quiz_style.css.map */
